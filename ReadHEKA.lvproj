@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="17008000">
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -13,6 +14,7 @@
 		<Item Name="DataBundle.ctl" Type="VI" URL="../DataBundle.ctl"/>
 		<Item Name="HEKAdat.lvclass" Type="LVClass" URL="../HEKAdat.lvclass"/>
 		<Item Name="Subvi.vi" Type="VI" URL="../Subvi.vi"/>
+		<Item Name="FGV_Seek.vi" Type="VI" URL="../FGV_Seek.vi"/>
 		<Item Name="TestRun.vi" Type="VI" URL="../TestRun.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
