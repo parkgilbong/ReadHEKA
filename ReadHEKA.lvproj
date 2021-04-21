@@ -16,6 +16,8 @@
 		<Item Name="Subvi.vi" Type="VI" URL="../Subvi.vi"/>
 		<Item Name="FGV_Seek.vi" Type="VI" URL="../FGV_Seek.vi"/>
 		<Item Name="TestRun.vi" Type="VI" URL="../TestRun.vi"/>
+		<Item Name="ReadHEKA.vi" Type="VI" URL="../ReadHEKA.vi"/>
+		<Item Name="Selection In Tree.vi" Type="VI" URL="../../../../Desktop/Selection In Tree.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
