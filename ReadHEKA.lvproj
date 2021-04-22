@@ -11,13 +11,14 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="DataBundle.ctl" Type="VI" URL="../DataBundle.ctl"/>
 		<Item Name="HEKAdat.lvclass" Type="LVClass" URL="../HEKAdat.lvclass"/>
 		<Item Name="Subvi.vi" Type="VI" URL="../Subvi.vi"/>
 		<Item Name="FGV_Seek.vi" Type="VI" URL="../FGV_Seek.vi"/>
 		<Item Name="TestRun.vi" Type="VI" URL="../TestRun.vi"/>
 		<Item Name="ReadHEKA.vi" Type="VI" URL="../ReadHEKA.vi"/>
 		<Item Name="Selection In Tree.vi" Type="VI" URL="../Selection In Tree.vi"/>
+		<Item Name="File Parameters.ctl" Type="VI" URL="../File Parameters.ctl"/>
+		<Item Name="DataBundle.ctl" Type="VI" URL="../DataBundle.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
